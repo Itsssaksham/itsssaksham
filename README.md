@@ -1,73 +1,21 @@
 <h1 align="center">Hi 👋, I'm Saksham Gupta</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack & Systems | Tech Enthusiast</h3>
 
----
+- 📊 [Finance Dashboard (Full Stack)](comingsoon)
 
-## 🚧 Featured Projects
+- 🤖 [AI Job Application Assistant (Next.js + PostgreSQL)](comingsoon)
 
-### 📊 **Personal Finance Dashboard (Full Stack)**
-A MERN-based dashboard that tracks expenses, investments, net worth, and fetches live stock/crypto prices using market APIs.  
-**Tech:** React, Node.js, Express, MongoDB, Chart.js, Cron Jobs  
-🔗 *GitHub:* _coming soon_
+- 🗜️ [File Compression Tool (C++)](comingsoon)
 
----
+- 👨‍💻 All of my projects are available at [coming soon](coming soon)
 
-### 🤖 **AI Job Application Assistant (Next.js + PostgreSQL)**
-An AI-powered tool to generate tailored resumes, cover letters, and skill gap analysis from job descriptions.  
-**Tech:** Next.js 14, PostgreSQL, NextAuth, OpenAI API, Tailwind  
-🔗 *GitHub:* _coming soon_
+- 📫 How to reach me **guptasaksham011@gmail.com**
 
----
-
-### 🗜️ **File Compression Tool (C++ – Low-Level Project)**
-A Huffman-coding based file compression CLI tool demonstrating algorithms, priority queues, and bit manipulation.  
-**Tech:** C++, STL, File I/O, Data Structures, Algorithms  
-🔗 *GitHub:* _coming soon_
-
----
-
-## 🧠 Skills & Technologies
-
-### 🔹 Programming Languages
-`C++` · `Java` · `Python` · `JavaScript`
-
-### 🔹 Tools & Platforms
-`Git` · `GitHub` · `Linux` · `Bash` · `VS Code`
-
-### 🔹 Databases
-`SQL` · `MongoDB` · `PostgreSQL`
-
-### 🔹 Areas of Interest
-`Full-Stack Development` ·  
-`Fintech & Markets` ·  
-`Systems Programming` ·  
-`DSA`  
-
----
-
-## 📬 How to Reach Me
-- 📧 Email: **guptasaksham011@gmail.com**
-- 🌐 Portfolio: _coming soon_
-- 💼 LinkedIn: https://www.linkedin.com/in/sakshamgupta004/
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="langs" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sakshamgupta004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshamgupta004" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/itssaksham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itssaksham" height="30" width="40" /></a>
 </p>
 
----
-
-### ⚡ Fun Fact  
-I’m building projects that blend **finance, systems, and full-stack engineering** — perfect combo for fintech roles.
-
----
-
-### ⭐ If you like my work, consider starring my repositories!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
