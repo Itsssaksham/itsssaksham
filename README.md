@@ -48,7 +48,7 @@ A Huffman-coding based file compression CLI tool demonstrating algorithms, prior
 ## 📬 How to Reach Me
 - 📧 Email: **guptasaksham011@gmail.com**
 - 🌐 Portfolio: _coming soon_
-- 💼 LinkedIn: _add your link here_
+- 💼 LinkedIn: __https://www.linkedin.com/in/sakshamgupta004/
 
 ---
 
