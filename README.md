@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Gupta</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack & Systems | Tech Enthusiast</h3>
 
-- 📊 [Finance Dashboard (Full Stack)](comingsoon)
+- 📊 [Finance Dashboard](https://github.com/Itsssaksham/PersonalFinanceDashboard)
 
 - 🤖 [AI Job Application Assistant (Next.js + PostgreSQL)](comingsoon)
 
