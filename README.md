@@ -3,7 +3,7 @@
 
 - 📊 [Finance Dashboard](https://github.com/Itsssaksham/PersonalFinanceDashboard)
 
-- 🤖 [AI Job Application Assistant (Next.js + PostgreSQL)](comingsoon)
+- 🤖 [AI Job Application Assistant](https://github.com/Itsssaksham/Ai-Job-Application-Assistant)
 
 - 🗜️ [File Compression Tool (C++)](comingsoon)
 
