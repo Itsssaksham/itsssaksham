@@ -5,7 +5,7 @@
 
 - 🤖 [AI Job Application Assistant](https://github.com/Itsssaksham/Ai-Job-Application-Assistant)
 
-- 🗜️ [File Compression Tool (C++)](comingsoon)
+- 🗜️ [File Compression Tool](https://github.com/Itsssaksham/File-Compression-Tool)
 
 - 👨‍💻 All of my projects are available at [coming soon](coming soon)
 
