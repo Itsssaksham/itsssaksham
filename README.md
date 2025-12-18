@@ -7,7 +7,7 @@
 
 - 🗜️ [File Compression Tool](https://github.com/Itsssaksham/File-Compression-Tool)
 
-- 👨‍💻 All of my projects are available [here](https://sakshamgupta.me/)
+- 👨‍💻 Made [this](https://sakshamgupta.me/) with :heart: and lots of coffee 
 
 - 📫 How to reach me **guptasaksham011@gmail.com**
 
