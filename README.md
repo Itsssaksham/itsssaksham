@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham Gupta</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack & Systems | Tech Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack & Systems | Tech Enthusiast</h3>
 
 - 📊 [Finance Dashboard](https://github.com/Itsssaksham/PersonalFinanceDashboard)
 
