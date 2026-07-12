@@ -11,6 +11,7 @@ Based in Chandigarh, India · [sakshamgupta.me](https://sakshamgupta.me/)
 | **[Kiln](https://github.com/Itsssaksham/Kiln)** | A Clay.com-style GTM data workbench — spreadsheet lead enrichment with waterfall providers, AI columns, formulas, and lead scoring. Vanilla JS, zero dependencies. |
 | **[Sounding](https://github.com/Itsssaksham/Sounding)** | An interactive essay that scrolls from the ocean surface down to Challenger Deep — 10,935 m of real depths, real creatures, and living light. A single HTML file, no frameworks. |
 | **[Nightloom Archive](https://github.com/Itsssaksham/nightloom-archive)** | A clothing store that boots like a video game — dark-fantasy RPG e-commerce with a boot screen, main menu, and garments presented as relics with rarity and lore. Next.js 16 · Tailwind v4 · Web Audio. |
+| **[VESPER/OS](https://github.com/Itsssaksham/vesper-os)** | A 1989 observatory workstation OS that boots in your browser — window manager, `vsh` terminal, live planetarium computing the real sky over Ladakh, Web Audio synth, and a red-light dark-adaptation mode. Vanilla JS, zero dependencies. |
 
 ### Earlier projects
 
