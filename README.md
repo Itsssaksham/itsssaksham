@@ -1,21 +1,27 @@
-<h1 align="center">Hi 👋, I'm Saksham Gupta</h1>
-<h3 align="center">Software Engineer | Full-Stack & Systems | Tech Enthusiast</h3>
+# Saksham Gupta
 
-- 📊 [Finance Dashboard](https://github.com/Itsssaksham/PersonalFinanceDashboard)
+**AI developer** — I build agents, automation systems, and the full-stack products that make them feel like products instead of scripts.
 
-- 🤖 [AI Job Application Assistant](https://github.com/Itsssaksham/Ai-Job-Application-Assistant)
+Based in Chandigarh, India · [sakshamgupta.me](https://sakshamgupta.me/)
 
-- 🗜️ [File Compression Tool](https://github.com/Itsssaksham/File-Compression-Tool)
+## Featured work
 
-- 👨‍💻 Made [this](https://sakshamgupta.me/) with :heart: and lots of coffee 
+| Project | What it is |
+| :--- | :--- |
+| **[Kiln](https://github.com/Itsssaksham/Kiln)** | A Clay.com-style GTM data workbench — spreadsheet lead enrichment with waterfall providers, AI columns, formulas, and lead scoring. Vanilla JS, zero dependencies. |
+| **[Sounding](https://github.com/Itsssaksham/Sounding)** | An interactive essay that scrolls from the ocean surface down to Challenger Deep — 10,935 m of real depths, real creatures, and living light. A single HTML file, no frameworks. |
+| **[Nightloom Archive](https://github.com/Itsssaksham/nightloom-archive)** | A clothing store that boots like a video game — dark-fantasy RPG e-commerce with a boot screen, main menu, and garments presented as relics with rarity and lore. Next.js 16 · Tailwind v4 · Web Audio. |
 
-- 📫 How to reach me **guptasaksham011@gmail.com**
+### Earlier projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sakshamgupta004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshamgupta004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itssaksham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itssaksham" height="30" width="40" /></a>
-</p>
+- **[AI Job Application Assistant](https://github.com/Itsssaksham/Ai-Job-Application-Assistant)** — tailored job application materials with Next.js 14, Prisma, and the OpenAI API
+- **[File Compression Tool](https://github.com/Itsssaksham/File-Compression-Tool)** — Huffman-coding CLI compressor in C++, binary-safe with ratio reporting
+- **[Personal Finance Dashboard](https://github.com/Itsssaksham/PersonalFinanceDashboard)** — income/expense tracking, live stock & crypto prices, net worth
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Toolbox
+
+TypeScript · JavaScript · Python · C++ · Java — Next.js · React · Tailwind · Node.js · Express — Postgres · MySQL · MongoDB — LLM agents, evals, and the unglamorous glue that keeps automations running at 3 a.m.
+
+## Find me
+
+[Portfolio](https://sakshamgupta.me/) · [LinkedIn](https://www.linkedin.com/in/sakshamgupta004/) · [LeetCode](https://leetcode.com/u/itssaksham/) · [X](https://x.com/saksham_gu74877) · [guptasaksham011@gmail.com](mailto:guptasaksham011@gmail.com)
