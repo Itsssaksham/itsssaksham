@@ -25,4 +25,4 @@ TypeScript · JavaScript · Python · C++ · Java — Next.js · React · Tailwi
 
 ## Find me
 
-[Portfolio](https://sakshamgupta.me/) · [LinkedIn](https://www.linkedin.com/in/sakshamgupta004/) · [LeetCode](https://leetcode.com/u/itssaksham/) · [X](https://x.com/saksham_gu74877) · [guptasaksham011@gmail.com](mailto:guptasaksham011@gmail.com)
+[Portfolio](https://sakshamgupta.me/) · [LinkedIn](https://www.linkedin.com/in/sakshamgupta004/) · [LeetCode](https://leetcode.com/u/itssaksham/) · [X](https://x.com/itsssaksham) · [guptasaksham011@gmail.com](mailto:guptasaksham011@gmail.com)
