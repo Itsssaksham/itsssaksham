@@ -1,0 +1,41 @@
+<svg width="436" height="190" viewBox="0 0 436 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kiln — GTM data workbench">
+  <defs>
+    <radialGradient id="ember" cx=".5" cy="1.15" r=".9">
+      <stop offset="0" stop-color="#ff6b35" stop-opacity=".55"/>
+      <stop offset=".45" stop-color="#c2410c" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#c2410c" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="kglow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="kpanel"><rect x="1" y="1" width="434" height="188" rx="12"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="434" height="188" rx="12" fill="#17110b" stroke="#ff6b35" stroke-opacity=".3"/>
+
+  <g clip-path="url(#kpanel)">
+    <!-- spreadsheet grid -->
+    <g stroke="#ff9a62" stroke-opacity=".08">
+      <line x1="0" y1="118" x2="436" y2="118"/><line x1="0" y1="142" x2="436" y2="142"/><line x1="0" y1="166" x2="436" y2="166"/>
+      <line x1="72" y1="106" x2="72" y2="190"/><line x1="144" y1="106" x2="144" y2="190"/><line x1="216" y1="106" x2="216" y2="190"/><line x1="288" y1="106" x2="288" y2="190"/><line x1="360" y1="106" x2="360" y2="190"/>
+    </g>
+    <!-- waterfall enrichment: cells filling left to right -->
+    <g fill="#ff6b35">
+      <rect x="4" y="122" width="64" height="16" rx="2" opacity=".14"><animate attributeName="opacity" values=".05;.4;.14;.14;.14;.05" dur="4.5s" repeatCount="indefinite"/></rect>
+      <rect x="76" y="122" width="64" height="16" rx="2" opacity=".14"><animate attributeName="opacity" values=".05;.05;.4;.14;.14;.05" dur="4.5s" repeatCount="indefinite"/></rect>
+      <rect x="148" y="122" width="64" height="16" rx="2" opacity=".14"><animate attributeName="opacity" values=".05;.05;.05;.4;.14;.05" dur="4.5s" repeatCount="indefinite"/></rect>
+      <rect x="220" y="122" width="64" height="16" rx="2" opacity=".14"><animate attributeName="opacity" values=".05;.05;.05;.05;.4;.05" dur="4.5s" repeatCount="indefinite"/></rect>
+      <rect x="292" y="122" width="64" height="16" rx="2" opacity=".14"><animate attributeName="opacity" values=".05;.05;.05;.05;.05;.45" dur="4.5s" repeatCount="indefinite"/></rect>
+    </g>
+    <!-- furnace glow -->
+    <rect x="0" y="60" width="436" height="130" fill="url(#ember)">
+      <animate attributeName="opacity" values=".75;1;.75" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="26" y="30" font-family="ui-monospace,Consolas,Menlo,monospace" font-size="9" letter-spacing="3" fill="#ff9a62" fill-opacity=".6">GTM DATA WORKBENCH</text>
+  <text x="332" y="30" font-family="ui-monospace,Consolas,Menlo,monospace" font-size="9" letter-spacing="1" fill="#ff9a62" fill-opacity=".45">0 DEPENDENCIES</text>
+  <text x="24" y="72" font-family="'Segoe UI',Arial,sans-serif" font-size="38" font-weight="800" letter-spacing="10" fill="#ff7a3d" filter="url(#kglow)">KILN</text>
+  <text x="26" y="94" font-family="ui-monospace,Consolas,Menlo,monospace" font-size="11" fill="#d9a68a">waterfall enrichment · AI columns · formulas · lead scoring</text>
+</svg>

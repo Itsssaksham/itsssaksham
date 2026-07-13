@@ -1,0 +1,45 @@
+<svg width="436" height="190" viewBox="0 0 436 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sounding — an interactive descent to Challenger Deep">
+  <defs>
+    <linearGradient id="abyss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#155a86"/>
+      <stop offset=".45" stop-color="#0a2c4a"/>
+      <stop offset="1" stop-color="#02070d"/>
+    </linearGradient>
+    <clipPath id="spanel"><rect x="1" y="1" width="434" height="188" rx="12"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="434" height="188" rx="12" fill="url(#abyss)" stroke="#5fd4c4" stroke-opacity=".28"/>
+
+  <g clip-path="url(#spanel)">
+    <!-- surface shimmer -->
+    <path d="M0 14 Q 36 10 72 14 T 144 14 T 216 14 T 288 14 T 360 14 T 436 14" fill="none" stroke="#bfe9ff" stroke-opacity=".35">
+      <animate attributeName="d"
+        values="M0 14 Q 36 10 72 14 T 144 14 T 216 14 T 288 14 T 360 14 T 436 14;
+                M0 14 Q 36 18 72 14 T 144 14 T 216 14 T 288 14 T 360 14 T 436 14;
+                M0 14 Q 36 10 72 14 T 144 14 T 216 14 T 288 14 T 360 14 T 436 14" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <!-- bioluminescent drift -->
+    <g fill="#5fd4c4">
+      <circle cx="60" cy="150" r="1.4"><animate attributeName="cy" values="185;95" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="11s" repeatCount="indefinite"/></circle>
+      <circle cx="132" cy="120" r="1"><animate attributeName="cy" values="190;70" dur="14s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.7;0" dur="14s" begin="2s" repeatCount="indefinite"/></circle>
+      <circle cx="204" cy="160" r="1.6"><animate attributeName="cy" values="185;110" dur="9s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="9s" begin="4s" repeatCount="indefinite"/></circle>
+      <circle cx="286" cy="140" r="1.1"><animate attributeName="cy" values="190;85" dur="13s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="13s" begin="1s" repeatCount="indefinite"/></circle>
+      <circle cx="330" cy="170" r="1.3"><animate attributeName="cy" values="188;120" dur="10s" begin="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.85;0" dur="10s" begin="6s" repeatCount="indefinite"/></circle>
+    </g>
+    <!-- depth ruler -->
+    <g font-family="ui-monospace,Consolas,Menlo,monospace" font-size="8" fill="#7fa8c9" fill-opacity=".75">
+      <line x1="408" y1="10" x2="408" y2="182" stroke="#7fa8c9" stroke-opacity=".4"/>
+      <line x1="404" y1="24" x2="408" y2="24" stroke="#7fa8c9" stroke-opacity=".6"/><text x="400" y="27" text-anchor="end">0 m</text>
+      <line x1="404" y1="76" x2="408" y2="76" stroke="#7fa8c9" stroke-opacity=".6"/><text x="400" y="79" text-anchor="end">3800</text>
+      <line x1="404" y1="128" x2="408" y2="128" stroke="#7fa8c9" stroke-opacity=".6"/><text x="400" y="131" text-anchor="end">8000</text>
+      <line x1="404" y1="172" x2="408" y2="172" stroke="#7fa8c9" stroke-opacity=".6"/><text x="400" y="175" text-anchor="end">10935</text>
+      <path d="M412 24 l7 -4 v8 z" fill="#5fd4c4">
+        <animate attributeName="d" values="M412 24 l7 -4 v8 z;M412 172 l7 -4 v8 z;M412 24 l7 -4 v8 z" dur="16s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/>
+      </path>
+    </g>
+  </g>
+
+  <text x="26" y="34" font-family="ui-monospace,Consolas,Menlo,monospace" font-size="9" letter-spacing="3" fill="#9fd0e8" fill-opacity=".6">INTERACTIVE ESSAY — ONE HTML FILE</text>
+  <text x="24" y="78" font-family="'Segoe UI',Arial,sans-serif" font-size="32" font-weight="300" letter-spacing="14" fill="#d7f0ff">SOUNDING</text>
+  <text x="26" y="102" font-family="ui-monospace,Consolas,Menlo,monospace" font-size="11" fill="#8fb8d8">scroll from the surface to Challenger Deep — 10,935 m</text>
+</svg>

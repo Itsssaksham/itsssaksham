@@ -1,28 +1,25 @@
-# Saksham Gupta
+<img src="https://raw.githubusercontent.com/Itsssaksham/itsssaksham/main/assets/header.svg" width="100%" alt="Saksham Gupta — AI developer. Agents, automation, full-stack. Systems that run while you sleep.">
 
-**AI developer** — I build agents, automation systems, and the full-stack products that make them feel like products instead of scripts.
+<p align="center">
+  <a href="https://github.com/Itsssaksham/Kiln"><img src="https://raw.githubusercontent.com/Itsssaksham/itsssaksham/main/assets/kiln.svg" width="49%" alt="Kiln — GTM data workbench: waterfall enrichment, AI columns, formulas, lead scoring. Vanilla JS, zero dependencies."></a>
+  <a href="https://github.com/Itsssaksham/Sounding"><img src="https://raw.githubusercontent.com/Itsssaksham/itsssaksham/main/assets/sounding.svg" width="49%" alt="Sounding — an interactive essay descending from the ocean surface to Challenger Deep, 10,935 m, in a single HTML file."></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Itsssaksham/nightloom-archive"><img src="https://raw.githubusercontent.com/Itsssaksham/itsssaksham/main/assets/nightloom.svg" width="49%" alt="Nightloom Archive — dark-fantasy RPG e-commerce: garments as relics with rarity and lore. A store that boots like a video game."></a>
+  <a href="https://github.com/Itsssaksham/vesper-os"><img src="https://raw.githubusercontent.com/Itsssaksham/itsssaksham/main/assets/vesper.svg" width="49%" alt="VESPER/OS — a 1989 observatory workstation booting in your browser: window manager, vsh terminal, live planetarium."></a>
+</p>
 
-Based in Chandigarh, India · [sakshamgupta.me](https://sakshamgupta.me/)
+<br>
 
-## Featured work
+**Earlier projects** — [AI Job Application Assistant](https://github.com/Itsssaksham/Ai-Job-Application-Assistant) · [File Compression Tool](https://github.com/Itsssaksham/File-Compression-Tool) · [Personal Finance Dashboard](https://github.com/Itsssaksham/PersonalFinanceDashboard)
 
-| Project | What it is |
-| :--- | :--- |
-| **[Kiln](https://github.com/Itsssaksham/Kiln)** | A Clay.com-style GTM data workbench — spreadsheet lead enrichment with waterfall providers, AI columns, formulas, and lead scoring. Vanilla JS, zero dependencies. |
-| **[Sounding](https://github.com/Itsssaksham/Sounding)** | An interactive essay that scrolls from the ocean surface down to Challenger Deep — 10,935 m of real depths, real creatures, and living light. A single HTML file, no frameworks. |
-| **[Nightloom Archive](https://github.com/Itsssaksham/nightloom-archive)** | A clothing store that boots like a video game — dark-fantasy RPG e-commerce with a boot screen, main menu, and garments presented as relics with rarity and lore. Next.js 16 · Tailwind v4 · Web Audio. |
-| **[VESPER/OS](https://github.com/Itsssaksham/vesper-os)** | A 1989 observatory workstation OS that boots in your browser — window manager, `vsh` terminal, live planetarium computing the real sky over Ladakh, Web Audio synth, and a red-light dark-adaptation mode. Vanilla JS, zero dependencies. |
+**Toolbox** — TypeScript · JavaScript · Python · C++ · Java — Next.js · React · Tailwind · Node.js — Postgres · MySQL · MongoDB — LLM agents, evals, and the unglamorous glue that keeps automations running at 3 a.m.
 
-### Earlier projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itsssaksham/itsssaksham/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Itsssaksham/itsssaksham/output/github-contribution-grid-snake.svg" width="100%" alt="A snake eating my contribution graph">
+</picture>
 
-- **[AI Job Application Assistant](https://github.com/Itsssaksham/Ai-Job-Application-Assistant)** — tailored job application materials with Next.js 14, Prisma, and the OpenAI API
-- **[File Compression Tool](https://github.com/Itsssaksham/File-Compression-Tool)** — Huffman-coding CLI compressor in C++, binary-safe with ratio reporting
-- **[Personal Finance Dashboard](https://github.com/Itsssaksham/PersonalFinanceDashboard)** — income/expense tracking, live stock & crypto prices, net worth
-
-## Toolbox
-
-TypeScript · JavaScript · Python · C++ · Java — Next.js · React · Tailwind · Node.js · Express — Postgres · MySQL · MongoDB — LLM agents, evals, and the unglamorous glue that keeps automations running at 3 a.m.
-
-## Find me
-
-[Portfolio](https://sakshamgupta.me/) · [LinkedIn](https://www.linkedin.com/in/sakshamgupta004/) · [LeetCode](https://leetcode.com/u/itssaksham/) · [X](https://x.com/Itsssaksham) · [guptasaksham011@gmail.com](mailto:guptasaksham011@gmail.com)
+<p align="center">
+  <a href="https://sakshamgupta.me/">Portfolio</a> · <a href="https://www.linkedin.com/in/sakshamgupta004/">LinkedIn</a> · <a href="https://leetcode.com/u/itssaksham/">LeetCode</a> · <a href="https://x.com/Itsssaksham">X</a> · <a href="mailto:guptasaksham011@gmail.com">guptasaksham011@gmail.com</a>
+</p>
